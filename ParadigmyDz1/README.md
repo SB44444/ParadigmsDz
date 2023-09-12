@@ -13,3 +13,4 @@ https://github.com/SB44444/ParadigmsDz/tree/master/ParadigmyDz1
 Задача №2  
 Написать точно такую же процедуру, но в декларативном стиле
 *Реализация:*
+https://github.com/SB44444/ParadigmsDz/tree/master/ParadigmyDz1
