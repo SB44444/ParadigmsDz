@@ -16,4 +16,4 @@ https://github.com/SB44444/ParadigmsDz/tree/master/ParadigmyDz4
 Rxy = SUM(Xi - Mx)*(Yi - My)/(SUM((Xi - Mx)^2)*((Yi - My)^2))^0.5
 
 *Реализация:*
-https://github.com/SB44444/ParadigmsDz/tree/m*aster/ParadigmyDz4
+https://github.com/SB44444/ParadigmsDz/tree/master/ParadigmyDz4
